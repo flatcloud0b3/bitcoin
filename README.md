@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Bitcoin Core For IBM Power (ppc64el)
 =====================================
 
 https://bitcoincore.org
